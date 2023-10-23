@@ -1,10 +1,11 @@
 package main
 
 import (
-	"github.com/InformasiwisataBandung/BackEndEnkripsi/Controller"
-	"github.com/InformasiwisataBandung/BackEndEnkripsi/Login"
-	"github.com/InformasiwisataBandung/BackEndEnkripsi/Signup"
 	"net/http"
+
+	"github.com/InformasiwisataBandung/BEintegrasi/Controller"
+	"github.com/InformasiwisataBandung/BEintegrasi/Login"
+	"github.com/InformasiwisataBandung/BEintegrasi/Signup"
 )
 
 func main() {
